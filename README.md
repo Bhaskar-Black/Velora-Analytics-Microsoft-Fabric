@@ -67,4 +67,3 @@ Source CSVs → Bronze Layer → Silver Layer → Gold Layer → Power BI Dashbo
 - 2,965 orders undelivered (cancelled or in transit)
 - 3 payments with undefined payment type (handled as unknown)
 
-## Repository Structure
